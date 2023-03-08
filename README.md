@@ -18,4 +18,6 @@
 ## Context
 ###### Using PostgreSQL to answer business questions for different departments. Then translate these answers into Tableau to create visuals and Dashboards. Finally create final presentation for management to view.
 ## Data Set
-###### Rockbuster data set
+###### A relational database made up of 17 tables. Full data Set: Rockbuster data set
+
+###### View the project vizualization here: Tableau Viz.
