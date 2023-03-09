@@ -1,3 +1,5 @@
+## Country based on total revenue and number of customers
+
 WITH profit_by_country_cte (country, total_revenue, number_of_customers) AS									
 		(SELECT E.country,							
 			   SUM(A.amount) AS total_revenue,						
