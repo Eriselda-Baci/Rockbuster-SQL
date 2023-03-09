@@ -22,6 +22,5 @@
 
 ## Data Set
 
-##### A relational database made up of 17 tables. Full data Set: [Rockbuster data set](./Rockbuster%20data%20set/)
-
+##### A relational database made up of 17 tables. Full data Set: [Rockbuster data set.](https://github.com/Eriselda-Baci/Rockbuster-SQL/blob/main/A3_Data_Project_Brief%20.pdf)
 ##### View the project vizualization here: [Tableau Viz.](https://public.tableau.com/app/profile/eriselda.baci/viz/RockbusterStealth_16741209317050/Story1)
